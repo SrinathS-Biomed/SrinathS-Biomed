@@ -2,15 +2,17 @@
 I'm a passionate **software and hardware enthusiast** currently pursuing a **Bachelor's degree in Biomedical Engineering**.
 
 🔍 I'm interested in **AI in Medicine** and open to collaborations in this field.  
-📫 You can reach me at: srinathsenthil42@gmail.com  
+📫 Let's connect!
+Reach me at: srinathsenthil42@gmail.com
+Or follow my work on LinkedIn: 
 
 ### 🛠️ Projects I've Built
-I've developed several projects aimed at assisting medical professionals, including:
+I've developed several projects independently that are aimed at assisting medical professionals, including:
 
-- **IoT-based Real-Time Heart Rate Monitor**  
-- **IR-based Non-Invasive Blood Glucose Measurement**  
-- **Digital Stethoscope**  
-- **Standalone Windows Application for Medical Image Analysis & Brain Tumor Detection**
+- **IoT-based Real-Time Heart Rate Monitor** Real-time tracking with alerts for abnormal readings.  
+- **IR-based Non-Invasive Blood Glucose Measurement** Non-invasive prototype using infrared spectroscopy.
+- **Digital Stethoscope** Picks up heart and lung sounds digitally for analysis and also has a earpiece for medical professional intervention. 
+- **Standalone Windows Application for Medical Image Analysis & Brain Tumor Detection** A Windows app for brain tumor detection using ML and image processing. 
 
 > All projects are built independently with a focus on real-world biomedical applications.
 
