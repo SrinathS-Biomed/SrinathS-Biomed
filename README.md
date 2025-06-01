@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Srinath S
-- 👀 I’m a software and hardware enthusiast 
-- 🌱 I’m currently learning a bachelor's degree in Biomedical Engineering 
-- 💞️ I’m looking to collaborate on AI in Medicine 
-- 📫 How to reach me ... srinathsenthil42@gmail.com
+- Hi, I’m Srinath S
+- I’m a software and hardware enthusiast 
+- I’m currently learning a bachelor's degree in Biomedical Engineering 
+- I’m looking to collaborate on AI in Medicine 
+- You can reach me at srinathsenthil42@gmail.com
 - I've made some projects on my own to assist medical professionals, like 
 - IOT based real time heart rate measurement, 
 - IR based non invasive blood glucose measurement, 
