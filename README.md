@@ -1,11 +1,20 @@
-- Hi, I’m Srinath S
-- I’m a software and hardware enthusiast 
-- I’m currently learning a bachelor's degree in Biomedical Engineering 
-- I’m looking to collaborate on AI in Medicine 
-- You can reach me at srinathsenthil42@gmail.com
-- I've made some projects on my own to assist medical professionals, like 
-- IOT based real time heart rate measurement, 
-- IR based non invasive blood glucose measurement, 
-- Digital stethoscope, and 
-- A standalone windows application for medical image analysis and brain tumour detection 
+# Hi, I’m Srinath S 👋  
+I'm a passionate **software and hardware enthusiast** currently pursuing a **Bachelor's degree in Biomedical Engineering**.
+
+🔍 I'm interested in **AI in Medicine** and open to collaborations in this field.  
+📫 You can reach me at: srinathsenthil42@gmail.com  
+
+### 🛠️ Projects I've Built
+I've developed several projects aimed at assisting medical professionals, including:
+
+- **IoT-based Real-Time Heart Rate Monitor**  
+- **IR-based Non-Invasive Blood Glucose Measurement**  
+- **Digital Stethoscope**  
+- **Standalone Windows Application for Medical Image Analysis & Brain Tumor Detection**
+
+> All projects are built independently with a focus on real-world biomedical applications.
+
+- 🌱 *Currently learning:* Python, MATLAB, Embedded C, ML for healthcare and Java. 
+- 💬 *Ask me about:* Biomedical devices and circuit design  
+- ⚡ *Fun fact:* I treat soldering as therapy 😄
 
