@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Srinath S
+- 👀 I’m a software and hardware enthusiast 
+- 🌱 I’m currently learning a bachelor's degree in Biomedical Engineering 
+- 💞️ I’m looking to collaborate on AI in Medicine 
+- 📫 How to reach me ... srinathsenthil42@gmail.com
+- I've made some projects on my own to assist medical professionals, like IOT based real time heart rate measurement, IR based non invasive blood glucose measurement, Digital stethoscope, and a standalone windows application for medical image analysis 
+
+<!---
+SrinathS-Biomed/SrinathS-Biomed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
