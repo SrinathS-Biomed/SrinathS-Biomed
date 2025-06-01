@@ -5,7 +5,7 @@ I'm a passionate **software and hardware enthusiast** currently pursuing a **Bac
  
 📫 Let's connect!
 Reach me at: srinathsenthil42@gmail.com
-Or follow my work on LinkedIn: 
+Or follow my work on LinkedIn:-[LinkedIn](https://www.linkedin.com/in/srinath-senthilnathan-7a3366289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 🛠️ Projects I've Built
 I've developed several projects independently that are aimed at assisting medical professionals, including:
